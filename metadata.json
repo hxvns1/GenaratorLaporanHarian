@@ -1,0 +1,8 @@
+{
+  "name": "Laporan Kegiatan Unit PKP-PK",
+  "description": "Aplikasi web pengisian, sinkronisasi real-time, arsip digital, dan cetak A4/PDF Laporan Kegiatan Unit PKP-PK UPBU Kelas III Tanjung Api.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
